@@ -27,7 +27,7 @@
 
   --transition-time: .3s; /* How fast animations added by the theme happen. Default is 0.3 seconds */
 
-  --background-image: https://i.pinimg.com/originals/2d/5f/69/2d5f695969bbc4c0145a9e22c418c4d2.gif; /* To add an image, replace unset with url(https://www.YOUR-URL-HERE.com) */
+  --background-image: https://www.pinterest.com/pin/art-love-gif-by-dualvoidanima-find-share-on-giphy--485966616049351707/; /* To add an image, replace unset with url(https://www.YOUR-URL-HERE.com) */
   --background-position: center; /* Positions the background image */
   --background-size: cover; /* Scales the background image */
   --background-blur: 5px; /* Blurs the image which usually helps with readability of text infront of it */
